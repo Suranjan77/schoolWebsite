@@ -1,0 +1,61 @@
+.topbox{
+	margin: 0px;
+	padding: 10px;
+	background-color: #8B0000;
+}
+
+.navmargin{
+	margin-bottom: 0px;
+}
+
+.topfont{
+	color: white;
+}
+
+.frontbringer{
+	z-index: 99999 !important;
+}
+
+.jumb-image{
+	margin-top:0px;
+}
+
+.bg-color{
+	background-color: white;
+}
+
+.news_link{
+	color: black;
+}
+
+.news_link:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.news{
+	border-left: 4px solid #000000;
+	border-bottom: 1px solid grey;
+	padding: 15px;
+	margin: 10px 3px 5px 0px;  
+}
+
+.news:hover{
+	border-top: 1px solid grey;
+	border-right: 4px solid black;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+.affix + .container-fluid {
+    padding-top: 70px;
+}
+
+.middlebody{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
